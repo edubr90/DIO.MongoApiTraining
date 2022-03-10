@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "URYrQ0NBezW6p968EuUCIXxH+sxwUMpY6n9xYbu9RAN7NBZuETj11seSyy1w4XK0FBwqm8JIGiYkzzh6lkqcjA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DIO\\DIO.MongoApiTraining\\DIO.MongoApiTraining.Domain\\DIO.MongoApiTraining.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOOE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOOE\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
